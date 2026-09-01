@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Build output
+bin/
+out/
+build/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+nbproject/private/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
